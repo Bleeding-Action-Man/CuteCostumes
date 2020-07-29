@@ -1,0 +1,46 @@
+Do you like fashion? This mutator is for you! Free Masks, Backpacks & Special FX added to the trader shop! Well.. not free but just for the price of 5 Fucking Dosh mate!!!
+
+You ask, what is the difference between this and the other versions? Well: 
+
+- This doesn't require ServerPerks at all!
+- All Masks, backpacks and effects cost 5 Dosh instead of 100! Now you can look sexy or fugly in HoE for almost no cost!
+- Full mutator base-code change. Much more clean and simple. 
+
+Special thanks to:
+
+- [C|AK]|[Forever] ( Originally making the mutator)
+- no7sag for adding new masks
+- Me for actually fixing the 'Mutator' part, and removing 'ServerPerks' requirements!
+- All items are listed under the 'Off-Perk' weapons in the trader (Where you find the ZED weapons)
+
+[b][u]Number Of Files[/u][/b]
+
+4
+
+[b][u]File Names[/u][/b]
+
+\System\CuteCostumes.u
+\System\CuteCostumes.ucl
+
+\Textures\CuteCostumes_T.utx
+\Animations\CuteCostumes_A.ukx
+
+[b][u]Usage[/u][/b]
+
+1- Subscribe or download manually (recommended)
+2- Launch the game and wait to see 'Completed'
+3- Restart the game and you can see the mutators in your list
+
+[b][u]Class Names[/u][/b]
+
+- Mutator: CuteCostumes.CuteMut
+
+[b][u]Known Bugs[/u][/b]
+
+- You Tell Me
+
+[b][u]Manual Download Links (Recommended)[/u][/b]
+
+You can find it under 'Not-Whitelisted' folder named 'KF-CuteCustomsNoSP-v1.0'
+
+MEGA Link: https://mega DOT nz/folder/YDoEmKiC#s6FGAtgh40-TvB4bHsLaMQ
