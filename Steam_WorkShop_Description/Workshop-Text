@@ -6,6 +6,13 @@ You ask, what is the difference between this and the other versions? Well:
 - All Masks, backpacks and effects cost 5 Dosh instead of 100! Now you can look sexy or fugly in HoE for almost no cost!
 - Full mutator base-code change. Much more clean and simple. 
 
+To view your new fashion in-game after buying, type this in console commands:
+
+behindview 0 (Hides your 3rd Person View)
+behindview 1 (Shows your 3rd Person View)
+
+These commands only work if your server has BehindView enabled in your config.
+
 Special thanks to:
 
 - [C|AK]|[Forever] ( Originally making the mutator)
